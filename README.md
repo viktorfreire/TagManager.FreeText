@@ -18,7 +18,7 @@ This PCF control enables users to input tags as free text, using commas (,) as s
     - Release folder contains the managed solution.
 
 🛠️ How to use it
-1. Click on change properties of the Single Line of Text field, navigate to Controls tab and then add them more then search by FreeTextTags and add it.
+1. Click on change properties of the Single Line of Text field, navigate to Controls tab and then add them more then search by TagManagerFreeText and add it.
 2. It will convert your text field into beautiful multiple tags control.
 
 🤝 Want to Collaborate?

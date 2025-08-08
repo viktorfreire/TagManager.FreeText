@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest>
-  <control namespace="unit4" constructor="TagManagerFreeText" version="1.0.5" display-name-key="TagManagerFreeText.Tags" description-key="Takes your comma separated string and converts it into Tags" control-type="standard">
+  <control namespace="vmfp" constructor="TagManagerFreeText" version="1.0.5" display-name-key="TagManagerFreeText.Tags" description-key="Takes your comma separated string and converts it into Tags" control-type="standard">
     <!-- property node identifies a specific, configurable piece of data that the control expects from CDS -->
     <type-group name="forTags">
       <type>SingleLine.Text</type>
