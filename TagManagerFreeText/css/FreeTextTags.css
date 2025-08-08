@@ -1,0 +1,32 @@
+body {
+    font-family: 'Segoe UI', SegoeUI, Arial, sans-serif;
+}
+
+.fluent-tag-container {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 12px;
+    background-color: #f3f2f1;
+    border-radius: 8px;
+}
+
+.fluent-tag-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.fluent-input-row {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.fluent-tag-area {
+    background: #fff;
+    border: 1px solid #edebe9;
+    border-radius: 8px;
+    padding: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.03);
+}
